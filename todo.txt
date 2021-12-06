@@ -1,0 +1,7 @@
+[$] parse a torrent file/ magnet link
+[$] announce & find peers 
+
+
+milestones : 
+[+] download a multi-file torrent successfully
+[+] implement DHT
